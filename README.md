@@ -1,11 +1,11 @@
-# ohare93 Homebrew Tap
+# jeprecated Homebrew Tap
 
 Personal Homebrew tap for macOS and Linux apps.
 
 ## Usage
 
 ```bash
-brew tap ohare93/tap
+brew tap jeprecated/tap
 brew install juggle
 ```
 
